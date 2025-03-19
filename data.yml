@@ -1,0 +1,277 @@
+---
+categories:
+  - name: Software Development Lifecycle 
+    entries:
+      - title: Extreme Programming
+        source: "http://www.extremeprogramming.org/"
+        image: extreme-programming.png
+      - title: Waterfall Model
+        source: "https://en.wikipedia.org/wiki/Waterfall_model"
+        image: waterfall-model.png
+      - title: W Model
+        source: "https://www.agileconnection.com/sites/default/files/article/file/2014/The%20W%20Model%20-%20Strengthening%20the%20Bond%20Between%20Development%20and%20Test.pdf"
+        image: w-model.png
+      - title: V Model
+        source: "https://en.wikipedia.org/wiki/V-model"
+        image: v-model.png
+      - title: Spiral Model
+        source: "https://en.wikipedia.org/wiki/Spiral_model"
+        image: spiral-model.png
+  - name: Agile Frameworks and tools
+    entries:
+      - title: Design Thinking + Lean Startup + Agile
+        source: "https://www.linkedin.com/pulse/design-thinking-lean-startup-agile-pradeep-patel/"
+        image: design-thinking-lean-startup-agile.png
+      - title: Modern Agile
+        source: "https://modernagile.org/"
+        image: modern-agile.png
+      - title: Heart of Agile
+        source: "https://heartofagile.com/"
+        image: heart-of-agile.png
+      - title: LeSS Framework
+        source: "https://less.works/less/framework/introduction"
+        image: less-framework.png
+      - title: Openspace Agility
+        source: "https://openspaceagility.com/what-is-ost/"
+        image: openspace-agility.png
+      - title: Kanban
+        source: "https://en.wikipedia.org/wiki/Kanban_%28development%29"
+        image: kanban.png
+      - title: Integral Agile Transformation Framework
+        source: "https://www.trans4mation.coach/trans4mation-approach/"
+        image: integral-agile-transformation-framework.png
+      - title: Kanban Maturity Model
+        source: "https://www.kanbanmaturitymodel.com/"
+        image: kanban-maturity-model.png
+      - title: Agile Coaching Skills
+        source: "https://appliedframeworks.com/blog/what-skills-does-your-agile-coach-need"
+        image: agile-coaching-skills.png
+      - title: Disciplined Agile
+        source: "https://kendis.io/disciplined-agile/disciplined-agile-delivery-dad/"
+        image: disciplined-agile.png
+      - title: 8 Elements of Agile Coaching
+        source: "https://zenexmachina.com/what-is-an-agile-coach/"
+        image: 8-elements-of-agile-coaching.png
+      - title: Agile Coaching in a Nutshell
+        image: agile-coaching-in-a-nutshell.png
+      - title: Integral Agile
+        source: "https://integralagile.com/holons/cadence"
+        image: integral-agile.png
+      - title: Nexus Framework
+        source: "https://www.scrum.org/resources/scaling-scrum"
+        image: nexus-framework.png
+  - name: Project Management
+    entries: 
+      - title: Project Management Body of Knowledge
+        source: "https://en.wikibooks.org/wiki/Project_Management/PMBOK"
+        image: project-management-knowledge-areas.png
+      - title: PRINCE2
+        source: "https://en.wikipedia.org/wiki/PRINCE2"
+        image: prince2.png
+      - title: Risk Assessment Matrix
+        source: "https://tms-outsource.com/blog/posts/risk-assessment-matrix/"
+        image: risk-assessment-matrix.jpg
+  - name: Process Management
+    entries: 
+      - title: Plan Do Check Act (PDCA)
+        source: "https://businessmap.io/lean-management/improvement/what-is-pdca-cycle"
+        image: plan-do-check-act.png
+      - title: 5S Levels of Achievement
+        source: "https://leanconstruction.org/lean-topics/5s/"
+        image: 5s-levels-of-achievement.png
+      - title: Team Topologies
+        source: "https://p4dev.hardscrum.com/en/team-topologies-in-p4/"
+        image: team-topologies.png
+      - title: Tools of the Learning Organization
+        source: "https://en.wikipedia.org/wiki/Learning_organization"
+        image: tools-of-the-learning-organization.png
+      - title: QRC Team Topologies
+        source: "https://hennyportman.wordpress.com/2020/05/25/review-team-topologies/"
+        image: qrc-team-topologies.png
+      - title: What is Hoshin Kanri?
+        source: "https://businessmap.io/lean-management/hoshin-kanri/what-is-hoshin-kanri"
+        image: what-is-hoshin-kanri.png
+      - title: Hoshin Kanri Strategic Deployment Matrix
+        source: "https://ideas.darden.virginia.edu/hoshin-kanri-management-tool"
+        image: hoshin-kanri-strategic-deployment-matrix.png
+      - title: Process Communication Model
+        source: "https://processcommunicationmodel.com/"
+        image: process-communication-model.png
+  - name: Lean Principles
+    entries: 
+      - title: The Toyota Way Principles of Lean Management
+        source: "https://www.agilecoach.net/wp-content/uploads/2009/05/toyota-way-handout.pdf"
+        image: the-toyota-way-principles-of-lean-management.png
+      - title: 5 Key Lean Principles for Engineers
+        source: "https://www.asme.org/topics-resources/content/5-lean-principles-every-should-know"
+        image: 5-key-lean-principles-for-engineers.png
+      - title: 7 Wastes of Lean
+        source: "https://businessmap.io/lean-management/value-waste/7-wastes-of-lean"
+        image: 7-wastes-of-lean.png
+      - title: Lean Management Principles
+        source: "https://businessmap.io/lean-management/implementing-lean-principles"
+        image: lean-management-principles.png
+  - name: Design Methodologies
+    entries: 
+      - title: Design Thinking
+        source: "https://www.programstrategyhq.com/post/design-thinking-process"
+        image: design-thinking.png
+      - title: Human Centered Design
+        source: "https://www.davidhodder.com/humancentreddesign/"
+        image: human-centered-design.jpg
+      - title: Design Thinking vs User Centered Design vs Human Centered Design
+        image: design-thinking-vs-user-centered-design-vs-human-centered-design.png
+      - title: Human-Centered Design vs. Design-Thinking
+        source: "https://blog.movingworlds.org/human-centered-design-vs-design-thinking-how-theyre-different-and-how-to-use-them-together-to-create-lasting-change/"
+        image: human-centered-design-vs-design-thinking.png
+      - title: Double Diamond Design Thinking Process
+        source: "https://www.designorate.com/the-double-diamond-design-thinking-process-and-how-to-use-it/"
+        image: double-diamond-design-thinking-process.png
+      - title: New Double Diamond Design Thinking Process
+        source: "https://medium.com/design-leadership-notebook/the-new-double-diamond-design-process-7c8f12d7945e"
+        image: new-double-diamond-design-thinking-process.png
+      - title: Design Sprints
+        source: "https://uxplanet.org/whats-a-design-sprint-and-why-is-it-important-f7b826651e09"
+        image: design-sprints.png
+  - name: Innovation Management
+    entries:
+      - title: Managing Your Innovation Portfolio
+        source: "https://hbr.org/2012/05/managing-your-innovation-portfolio"
+        image: managing-your-innovation-portfolio.png
+      - title: Jobs-To-Be-Done Canvas
+        source: "https://jobs-to-be-done.com/the-jobs-to-be-done-canvas-f3f784ad6270"
+        image: jobs-to-be-done-canvas.png
+      - title: Value Proposition Canvas
+        source: "https://www.groupmap.com/portfolio/value-proposition"
+        image: value-proposition-canvas.png
+      - title: Kano Model
+        source: "https://www.microsoft.com/en-us/research/articles/lots-of-ideas-but-not-sure-how-to-prioritize-the-kano-model-can-help/"
+        image: kano-model.png
+      - title: Three Horizons of Innovation and Culture Change
+        source: "https://designforsustainability.medium.com/the-three-horizons-of-innovation-and-culture-change-d9681b0e0b0f"
+        image: three-horizons-of-innovation-and-culture-change.png
+      - title: Disruptive Innovation Model
+        source: "https://hbr.org/2015/12/what-is-disruptive-innovation"
+        image: disruptive-innovation-model.png
+  - name: Business Strategy and Performance
+    entries:
+      - title: Business Model Canvas
+        source: "https://en.wikipedia.org/wiki/Business_model_canvas"
+        image: business-model-canvas.png
+      - title: BCG Matrix
+        source: "https://www.thepowermba.com/en/blog/bcg-matrix"
+        image: bcg-matrix.png
+      - title: The Golden Circle
+        source: "https://www.smartinsights.com/digital-marketing-strategy/online-value-proposition/start-with-why-creating-a-value-proposition-with-the-golden-circle-model/"
+        image: the-golden-circle.png
+      - title: Inbound Methodology Lifecycle
+        source: "https://medium.com/@leadsngin/what-is-the-inbound-methodology-lifecycle-a1489a641e4f"
+        image: inbound-methodology-lifecycle.png
+      - title: North Star Metric
+        source: "https://cxl.com/blog/north-star-metric/"
+        image: north-star-metric.png
+      - title: Finding a North Star Metric
+        source: "https://growwithward.com/north-star-metric/"
+        image: finding-a-north-star-metric.png
+      - title: AARRR Framework
+        source: "https://www.designwithvalue.com/aarrr-framework"
+        image: aarrr-framework.png
+      - title: North Star Statement Exercise
+        source: "https://plan.io/blog/north-star-metrics/"
+        image: north-star-statement-exercise.png
+      - title: Balanced Scorecard
+        source: "https://hbr.org/1992/01/the-balanced-scorecard-measures-that-drive-performance-2"
+        image: balanced-scorecard.png
+      - title: AAARRR Pirate Funnel
+        source: "https://growwithward.com/aaarrr-pirate-funnel/"
+        image: aaarr-pirate-funnel.png
+      - title: AARRR Pirate Metrics for Startups
+        source: "https://mcgaw.io/blog/aarrr-pirate-metrics-for-startups/#gs.l0xwgr"
+        image: aarr-pirate-metrics-for-startups.png
+      - title: Net Prompoter Score
+        source: "https://www.checkmarket.com/blog/net-promoter-score/"
+        image: net-promoter-score.png
+      - title: Customer Effort Scores
+        source: "https://acxpa.com.au/glossary/customer-effort-score/"
+        image: customer-effort-scores.png
+  - name: Leadership and Organizational Change
+    entries:
+      - title: TEAL Model
+        source: "https://www.iberdrola.com/talent/teal-organisations"
+        image: teal-model.png
+      - title: Leadership Styles
+        source: "https://www.personio.com/hr-lexicon/six-goleman-leadership-styles/"
+        image: leadership-styles.png
+      - title: Sociocracy
+        source: "https://sociocracy30.org/the-details/why-sociocracy-3-0/"
+        image: sociocracy.png
+      - title: The Barret Model
+        source: "https://www.valuescentre.com/articles/theoretical-support-for-the-barrett-model"
+        image: the-barret-model.png
+      - title: Delegation Levels
+        source: "https://www.linkedin.com/pulse/unclear-team-responsibilities-use-delegation-levels-jurgen-appelo/"
+        image: delegation-levels.png
+      - title: Management 3.0
+        source: "https://management30.com/learn/"
+        image: management-3.png
+      - title: Situational Leadership
+        source: "https://situational.com/situational-leadership/"
+        image: situational-leadership.png
+      - title: Holocracy vs Hierarchy
+        source: "https://businessmap.io/blog/agile-holacracy"
+        image: holocracy-vs-hierarchy.png
+      - title: Kotter's 8 Step Model for Leading Change
+        source: "https://www.linkedin.com/pulse/kotters-8-step-model-leading-change-big-opportunity-unlike-mishra/"
+        image: kotters-8-step-model-for-leading-change.png
+  - name: Personal and Team Development
+    entries:
+      - title: Celebration Grid
+        source: "https://management30.com/practice/celebration-grids/"
+        image: celebration-grid.png
+      - title: Liberating Structures
+        source: "https://www.liberatingstructures.com/ls-menu/"
+        image: liberating-structures.png
+      - title: Thinking Hats
+        source: "https://www.agile-moose.com/debonos-6-hats"
+        image: thinking-hats.png
+      - title: Ikigai
+        source: "https://management30.com/blog/redefining-purpose-with-ikigai/"
+        image: ikigai.png
+      - title: 5 Disfunctions of Virtual Teams
+        source: "https://tomorrowsleadership.nl/how-to-overcome-the-5-dysfunctions-of-virtual-teams/"
+        image: 5-disfunctions-of-virtual-teams.png
+      - title: 5 Characteristics of a High Performing Team
+        source: "https://trackerproducts.com/evidence-management-leadership-series-the-five-dysfunctions-of-a-team/"
+        image: 5-characteristics-of-a-high-performing-team.png
+      - title: Social Emotional Learning Assessment Framework
+        source: "https://casel.org/state-resource-center/assessment-tools/"
+        image: social-emotional-learning-assessment-framework.png
+      - title: Myers-Briggs Personality Types
+        source: "https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator"
+        image: myers-briggs-personality-types.png
+      - title: Double Loop Learning
+        source: "https://www.selfleadership.com/blog/double-loop-learning-survive-thrive"
+        image: double-loop-learning.png
+      - title: Emotional Intelligence Framework
+        source: "https://positivepsychology.com/emotional-intelligence-frameworks/"
+        image: emotional-intelligence-framework.png
+  - name: Decision Making
+    entries:
+      - title: Observe Orient Decide Act (OODA)
+        source: "https://thedecisionlab.com/reference-guide/computer-science/the-ooda-loop"
+        image: observe-orient-decide-act.png
+      - title: Volatility Uncertainty Complexity Ambiguity (VUCA)
+        source: "https://www.talkspirit.com/blog/how-vuca-affects-business"
+        image: vuca.png
+      - title: Cynefin Framework
+        source: "https://en.wikipedia.org/wiki/Cynefin_framework"
+        image: cynefin-framework.png
+
+
+
+
+
+
+
+
+

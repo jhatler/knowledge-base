@@ -1,0 +1,47 @@
+# Knowledge Base of Jaremy Hatler
+
+This is my personal knowledge base, and will be a perpetual work in progress.
+This file is generated from the `data.yml` file using the `templates/README.md.j2`
+template. The images are stored in the `imgs` directory, and the source links are
+included when available. I don't claim any of this as my own work unless explicitly
+stated.
+
+**Planned Enhancements:**
+
+- [ ] Create standardized information for each entry:
+    - [X] Title
+    - [X] Image
+    - [X] Source
+    - [ ] Keywords
+    - [ ] Summary (Purpose and key concepts)
+    - [ ] Target Audience
+    - [ ] Indications & Contraindications
+    - [ ] Pros & Cons
+    - [ ] Related Concepts
+    - [ ] Related Entries
+- [ ] Create project to track:
+  - [ ] Outstanding entries I want to add from my notes and other sources.
+  - [ ] Compliance with the above standardization.
+- [ ] GitHub.io site.
+- [ ] GitHub Actions workflow to update the README.md and routinely check for
+  broken links (automatically create issues).
+- [ ] Separate sections into different files.
+- [ ] Add a table of contents.
+
+
+{%- for category in data.categories %}
+
+## {{ category.name }}
+
+{%- for entry in category.entries %}
+<details>
+
+<summary>{{ entry.title }}</summary>
+
+![{{ entry.title }}](imgs/{{ entry.image }})
+
+{% if entry.source %}Source: [{{ entry.source }}]({{ entry.source }}){% endif %}
+
+</details>
+{% endfor %}
+{% endfor %}
